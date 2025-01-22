@@ -1,6 +1,7 @@
 ---
 title: "DNA"
 date: 2022-08-05T12:24:27-04:00
+lastmod: 2025-01-22T17:11:00-05:00
 draft: false
 ---
 Some people might ask, "why?" - and I say because why not

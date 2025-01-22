@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on willjasen&#39;s dna</title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on willjasen&#39;s dna</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Aug 2022 12:24:27 -0400</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DNA</title>
-      <link>/posts/dna/</link>
+      <link>//localhost:1313/posts/dna/</link>
       <pubDate>Fri, 05 Aug 2022 12:24:27 -0400</pubDate>
-      <guid>/posts/dna/</guid>
+      <guid>//localhost:1313/posts/dna/</guid>
       <description>&lt;p&gt;Some people might ask, &amp;ldquo;why?&amp;rdquo; - and I say because why not&lt;/p&gt;&#xA;&lt;p&gt;This data was generated as a result of a 23andMe test performed in 2013&lt;/p&gt;&#xA;&lt;p&gt;The file at the link below is in the tab-separated values format (it is not compressed)&lt;/p&gt;&#xA;&lt;p&gt;Download here: &lt;a href=&#34;https://ipfs.io/ipfs/QmNotd3CsD6pqV69YKjtvbRfA5DbkynaMoaDNuU334CM1M&#34;&gt;https://ipfs.io/ipfs/QmNotd3CsD6pqV69YKjtvbRfA5DbkynaMoaDNuU334CM1M&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
