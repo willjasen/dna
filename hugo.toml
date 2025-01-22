@@ -3,9 +3,10 @@ languageCode = 'en-us'
 theme = "hermit-v2"
 enableEmoji = true
 
+
 [languages]
   [languages.en]
-    title = 'dna'
+    title = "willjasen's dna"
     languageCode = 'en-US'
     languageDirection = 'ltr'
     languageName = 'English'
