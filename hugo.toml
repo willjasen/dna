@@ -1,4 +1,47 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'dna'
 theme = "hermit-v2"
+enableEmoji = true
+
+[languages]
+  [languages.en]
+    title = 'dna'
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    [languages.en.params]
+      homeSubtitle = "here's some letters"
+    weight = 1
+
+[frontmatter]
+    date = ["lastmod", "date", "publishDate"]
+    lastmod = ["date", "lastmod", ":git", "publishDate"]
+    publishDate = ["publishDate", "date"]
+    expiryDate = ["expiryDate"]
+
+
+[params.author]
+  name = "willjasen"
+  about = "about"
+
+[params]
+
+  # Metadata mostly used in document's head
+  description = "here's some letters"
+
+   [[params.socialLinks]]
+    name = "github"
+    url = "https://github.com/willjasen/dna"
+
+[menu]
+
+  [[menu.main]]
+    name = "about"
+    url = "about/"
+    weight = 20
+
+  [[menu.main]]
+    name = "download"
+    url = "https://ipfs.io/ipfs/QmNotd3CsD6pqV69YKjtvbRfA5DbkynaMoaDNuU334CM1M"
+    weight = 30
+    

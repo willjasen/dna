@@ -5,7 +5,15 @@
     <link>/</link>
     <description>Recent content on dna</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
