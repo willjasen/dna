@@ -15,3 +15,7 @@ the file is formatted as tab-separated values (typically has a file extension of
 
 it is available via ipfs here:
 https://ipfs.io/ipfs/QmNotd3CsD6pqV69YKjtvbRfA5DbkynaMoaDNuU334CM1M
+
+---
+
+someone else who was brave enough  - [0x77dev](https://github.com/0x77dev/dna)
